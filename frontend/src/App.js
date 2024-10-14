@@ -1,7 +1,5 @@
 import React from 'react';
 import HotelList from './components/HotelList';
-// import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-// import HotelDetail from './components/HotelDetail';
 
 
 function App() {
